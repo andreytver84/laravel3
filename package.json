@@ -1,0 +1,23 @@
+{
+    "name": "laravel3",
+    "version": "1.0.0",
+    "description": "Миграции в Laravel - это мощный инструмент, который помогает управлять изменениями в структуре базы данных вашего приложения. Они позволяют создавать и изменять таблицы и столбцы базы данных, а также заполнять их начальными данными, используя удобный и простой в использовании синтаксис.",
+    "main": "vite.config.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "dev": "npm run build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andreytver84/laravel3.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/andreytver84/laravel3/issues"
+    },
+    "homepage": "https://github.com/andreytver84/laravel3#readme"
+}
